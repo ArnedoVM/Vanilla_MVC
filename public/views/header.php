@@ -20,7 +20,7 @@
     </div>
     <div class="navbar">
         <a href="#" data-route="/list">Student List</a>
-        <a href="/public/views/register.php">Register</a>
+        <a href="#" data-route="/register">Register</a>
     </div>
 
     <script src="/public/resources/js/scripts.js"></script>
